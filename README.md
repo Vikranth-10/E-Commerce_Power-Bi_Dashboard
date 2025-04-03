@@ -1,6 +1,6 @@
 # E-Commerce_Power-Bi_Dashboard
 Designed an interactive Power BI dashboard to analyze E-Commerce sales performance.
-
+https://github.com/Vikranth-10/E-Commerce_Power-Bi_Dashboard/blob/main/images.jpeg
 Project Overview:
 The goal of this project was to create an interactive and insightful dashboard to track and analyze online sales data. The dashboard provides a dynamic and user-friendly interface that allows users to drill down into specific aspects of the data, giving a detailed understanding of sales performance across various parameters. Using a range of visualization techniques and interactive filters, the dashboard empowers users to make data-driven decisions and derive meaningful insights from complex datasets.
 
